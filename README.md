@@ -1,5 +1,5 @@
 # NoFailCrafting
-Wurm Unlimited 1.9.1.5 server mod that allows a configurable list of crafting items with guaranteed success chance.
+Simple Wurm Unlimited 1.9.1.5 server mod that allows a configurable list of crafting items with guaranteed success chance.
 This mod only changes the crafting success chance to 100%. It does not alter anything to do with skill requirements.
 
 Currently the mod only works for "simple" items - that is, items that are completely crafted by using one item on
