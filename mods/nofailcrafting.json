@@ -1,0 +1,20 @@
+{
+  "noFailCrafting": [
+    "plank",
+    "shaft",
+    "metalRivet",
+    "stoneBrick",
+    "clothString",
+    "nailsIronLarge",
+    "nailsIronSmall",
+    "rope",
+    "thatch",
+    "brickClay",
+    "shingleClay",
+    "shinglePottery",
+    "shingleWood",
+    "woolYarn",
+    "roundedBrick",
+    "kindling"
+  ]
+}
